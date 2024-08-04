@@ -25,8 +25,8 @@ int main(int argc, char **argv) {
     
     
     // Variables for inputs
-    char num1[10] = "";
-    char num2[10] = "";
+    char num1[80] = "";
+    char num2[80] = "";
     char operator = 0;
     
     // Input first number
